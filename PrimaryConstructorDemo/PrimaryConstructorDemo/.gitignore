@@ -1,0 +1,70 @@
+﻿## Ignore Visual Studio temporary files, build results, and personal settings
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore build results
+bin/
+obj/
+[Bb]uild/
+[Ll]ogs/
+*.log
+
+## Rider files (if you use JetBrains Rider)
+.idea/
+
+## Ignore test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Ignore build output
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
+*.db
+*.pdb
+*.cache
+*.mdb
+
+## Auto-generated files
+Generated\ Files/
+
+## Ignore NuGet packages
+*.nupkg
+packages/
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Ignore dotnet CLI artifacts
+project.assets.json
+project.nuget.cache
+*.deps.json
+
+## ASP.NET specific
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+secrets.json
+
+## Logs
+*.log
+*.tlog
+
+## Others
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+*.sln.ide
+
+## Mac + Linux hidden files
+.DS_Store
+Thumbs.db

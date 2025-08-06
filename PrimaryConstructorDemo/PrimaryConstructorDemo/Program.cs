@@ -1,4 +1,5 @@
-using PrimaryConstructorsDemo.Models;
+﻿using PrimaryConstructorDemo;
+using PrimaryConstructorDemo.Models;
 
 class Program
 {

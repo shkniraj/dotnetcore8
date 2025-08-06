@@ -1,4 +1,4 @@
-namespace PrimaryConstructorsDemo.Models;
+namespace PrimaryConstructorDemo.Models;
 
 // Primary constructor with public property exposure
 public class Product(string name, decimal price)
